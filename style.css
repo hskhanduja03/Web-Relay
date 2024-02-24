@@ -194,9 +194,11 @@ button{
 /* Aniket */
 
 #main-content{
+    margin-top: 5rem;
     display: grid;
     width: 100%;
     margin-left: 58px;
+    row-gap: 2rem;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     /* grid-template-rows: 1fr 1fr 1fr; */
     /* margin: 100px; */
