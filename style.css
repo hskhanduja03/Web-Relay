@@ -159,6 +159,10 @@ span{
     width: 65px;
     
 }
+#filter:hover{
+    background-color: rgb(202, 202, 202);
+    cursor: pointer;
+}
 
 .content div:hover{
     color: #a1a1a1;
